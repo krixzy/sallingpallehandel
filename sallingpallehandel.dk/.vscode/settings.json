@@ -1,0 +1,16 @@
+{
+    "sqltools.connections": [
+        {
+            "mssqlOptions": {
+                "appName": "SQLTools",
+                "useUTC": true,
+                "encrypt": true
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "MSSQL",
+            "name": "SQL Azure",
+            "connectString": "Driver={ODBC Driver 18 for SQL Server};Server=tcp:kimssql.database.windows.net,1433;Database=kimsdatabase;Uid=Krixzy;Pwd={Jhg5847jwq};Encrypt=yes;TrustServerCertificate=no;Connection Timeout=30;"
+        }
+    ]
+}
